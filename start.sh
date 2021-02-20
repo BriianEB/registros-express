@@ -1,0 +1,1 @@
+DEBUG=registroalumnosyprofesores:* npm start
